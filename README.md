@@ -1,5 +1,6 @@
 # hello-world
-A simple Hellow World program.
+
+A simple Hello World program.
 
 Hi, this is our first program!
 It's so  we can see how GitHub works!

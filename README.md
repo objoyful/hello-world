@@ -1,18 +1,24 @@
 # hello-world
 
-A simple Hello World program.
+Hello, evryone! This is my first repository! It was made for me to see how github works!
 
-Hi, this is our first program!
-It's so  we can see how GitHub works!
-So cool!
+I will also show a quick Markdown tutorial. This will help me (and you) learn the Markdown language.
 
-# Markdown Syntax
+Enjoy!
 
-I will also explain the markdown syntax.
+## Markdown Tutorial
+
+Welcome to the Markdown tutorial!
 
 Typing normal text will display normal text.
 
+EX `Normal text`
+
 You must put one line of empty space to separate sentences.
+
+EX: `Some text`
+
+`more text`
 
 ## Italics and Bold
 

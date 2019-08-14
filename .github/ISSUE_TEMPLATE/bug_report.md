@@ -1,8 +1,10 @@
+---
 name: Bug report
 about: Create a bug report.
 title: "[BUG]"
 labels: bug
 assignees: ''
+---
 
 **Describe the bug**
 Describe what the bug is.

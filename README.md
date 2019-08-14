@@ -10,6 +10,12 @@ Enjoy!
 
 Welcome to the Markdown tutorial!
 
+This tutorial is from [markdown.com](https://www.markdowntutorial.com/) and the souce code for that tutorial is [here](https://github.com/gjtorikian/markdowntutorial.com).
+
+Without that awesome tutorial, I wouldn't be able to bring you this one!
+
+## Text
+
 Typing normal text will display normal text.
 
 EX `Normal text`
@@ -84,4 +90,4 @@ The text in the brackes `[]` is called `alt text` in case if the image doesn't l
 
 EX: `![some image](https://www.somewebsite.com/somewebpage/someimage.jpg)`
 
-![some image](https://www.comewebsite/somewebpage/someimage.jpg)
+![some image](https://www.somewebsite/somewebpage/someimage.jpg)

@@ -1,6 +1,6 @@
 # hello-world
 
-Hello, evryone! This is my first repository! It was made for me to see how github works!
+Hello, everyone! This is my first repository! It was made for me to see how github works!
 
 I will also show a quick Markdown tutorial. This will help me (and you) learn the Markdown language.
 
@@ -10,7 +10,7 @@ Enjoy!
 
 Welcome to the Markdown tutorial!
 
-This tutorial is from [markdown.com](https://www.markdowntutorial.com/) and the souce code for that tutorial is [here](https://github.com/gjtorikian/markdowntutorial.com).
+This tutorial is from [markdown.com](https://www.markdowntutorial.com/) and the source code for that tutorial is [here](https://github.com/gjtorikian/markdowntutorial.com).
 
 Without that awesome tutorial, I wouldn't be able to bring you this one!
 
@@ -86,7 +86,7 @@ Join [GitHub][github]!
 
 Images work just like links, but you have an `!` in front.
 
-The text in the brackes `[]` is called `alt text` in case if the image doesn't load correctly
+The text in the brackets `[]` is called `alt text` in case if the image doesn't load correctly
 
 EX: `![some image](https://www.somewebsite.com/somewebpage/someimage.jpg)`
 

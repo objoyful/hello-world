@@ -1,4 +1,4 @@
-# hello-world
+# Hello World!
 
 Hello, everyone! This is my first repository! It was made for me to see how github works!
 
@@ -63,6 +63,8 @@ EX: `# Header 1`
 `###### Header 6`
 ###### Header 6
 
+If you want to see a Header 1 example, look at the top of the page.
+
 ## Links
 
 To make a link to another website, you put the description in brackets `[]` and the website in parenthesis `()`.
@@ -76,6 +78,8 @@ You can also make links that redirect to another place in the document.
 EX: `Join [GitHub][github]!`
 
 `[github]: https://www.github.com`
+
+You usually want to put the definitions (the `[github]: https://www.github.com` part) at the bottom of the file.
 
 Join [GitHub][github]!
 

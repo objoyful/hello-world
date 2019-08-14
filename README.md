@@ -47,7 +47,6 @@ You can make headers with the hash mark `#`.
 You can go from Header 1 to Header 6 by using more `#`.
 
 EX: `# Header 1`
-# Header 1
 
 `## Header 2`
 ## Header 2
@@ -80,8 +79,6 @@ EX: `Join [GitHub][github]!`
 
 Join [GitHub][github]!
 
-[github]: https://www.github.com/
-
 ## Images
 
 Images work just like links, but you have an `!` in front.
@@ -91,3 +88,5 @@ The text in the brackets `[]` is called `alt text` in case if the image doesn't 
 EX: `![some image](https://www.somewebsite.com/somewebpage/someimage.jpg)`
 
 ![some image](https://www.somewebsite/somewebpage/someimage.jpg)
+
+[github]: https://www.github.com/

@@ -1,4 +1,4 @@
-# Hello World!
+# Hello World
 
 Hello, everyone! This is my first repository! It was made for me to see how github works!
 

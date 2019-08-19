@@ -1,7 +1,4 @@
 # Hello World 
-
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/eca3819fecca4b709b588ed427522608)](https://www.codacy.com/app/awsumbill/hello-world?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=objoyful/hello-world&amp;utm_campaign=Badge_Grade)
-
 Hello, everyone! This is my first repository! It was made for me to see how github works!
 
 I will also show a quick Markdown tutorial. This will help me (and you) learn the Markdown language.
